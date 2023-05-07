@@ -111,3 +111,6 @@ Execute the program
 ```
 # OUPUT
 ![timetable](https://user-images.githubusercontent.com/118799103/236665451-ad03982f-ddc7-411f-877c-bb7002aed5bb.jpg)
+
+# RESULT
+The timetable is displayed successfully.
