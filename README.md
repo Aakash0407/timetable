@@ -26,7 +26,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Balasathiesh.CS (22002545)</b></caption>
+<caption><b>SLOT TIME TABLE - Aakash.P (22005471)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -110,7 +110,7 @@ Execute the program
 </html>
 ```
 # OUPUT
-![timetable](https://user-images.githubusercontent.com/118799103/236665451-ad03982f-ddc7-411f-877c-bb7002aed5bb.jpg)
+
 
 # RESULT
 The timetable is displayed successfully.
