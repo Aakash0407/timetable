@@ -109,8 +109,8 @@ Execute the program
 </body>
 </html>
 ```
-# OUPUT
-
+# OUTPUT
+![timetable](https://user-images.githubusercontent.com/118799103/236669593-cd860257-978d-4ae0-9b1e-1ced6876cfb6.jpg)
 
 # RESULT
 The timetable is displayed successfully.
